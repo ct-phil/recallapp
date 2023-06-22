@@ -1,0 +1,23 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-recallapp-staging-232540-authRole",
+      "UnauthRoleArn": "arn:aws:iam::575124949619:role/amplify-recallapp-staging-232540-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::575124949619:role/amplify-recallapp-staging-232540-authRole",
+      "Region": "eu-north-1",
+      "DeploymentBucketName": "amplify-recallapp-staging-232540-deployment",
+      "UnauthRoleName": "amplify-recallapp-staging-232540-unauthRole",
+      "StackName": "amplify-recallapp-staging-232540",
+      "StackId": "arn:aws:cloudformation:eu-north-1:575124949619:stack/amplify-recallapp-staging-232540/eff2ebb0-108a-11ee-b85a-0a55d6617974",
+      "AmplifyAppId": "d37mo1oiya4hpj"
+    },
+    "categories": {
+      "auth": {
+        "RecallApp": {}
+      },
+      "api": {
+        "recallapp": {}
+      }
+    }
+  }
+}
